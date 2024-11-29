@@ -14,7 +14,7 @@ Return Books & Fine Calculation: Admins can process book returns and calculate f
 
 Book Search: Admins can search for books and check availability.
 
-->Technologies Used
+->Tech Stack
 
 Spring Boot MVC – Back-end logic and configuration.
 
