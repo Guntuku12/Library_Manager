@@ -17,9 +17,13 @@ Book Search: Admins can search for books and check availability.
 ->Technologies Used
 
 Spring Boot MVC – Back-end logic and configuration.
+
 JDBC – Database connectivity for managing data.
+
 MySQL – Database for storing library data.
+
 HTML/CSS/JavaScript – Front-end interface.
+
 ->Running the Application
 Run the LibraryManagerApplication.java class (main method) as a Java application.
 Open your browser and navigate to: http://localhost:8080/Homepage.jsp.
