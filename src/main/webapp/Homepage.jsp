@@ -138,11 +138,7 @@ function bookAvailibilty() {
 
 
 		<div id="homePage">
-		    <div>
-        
-    </div>
-
-		
+		   
 			<br>
 			<h3>Welcome to MGU Library</h3>
 			Explore a universe of knowledge across diverse fields in the Mahatma
