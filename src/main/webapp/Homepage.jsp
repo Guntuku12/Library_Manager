@@ -21,14 +21,6 @@ h1 {
 	margin-left: 100px;
 	color: green;
 }
-.success-message {
-            background-color: #d4edda;
-            color: #155724;
-            padding: 10px;
-            margin: 10px;
-            border: 1px solid #c3e6cb;
-            border-radius: 5px;
-        }
 button {
 	font-size: 15px;
 	border: none;
@@ -147,16 +139,7 @@ function bookAvailibilty() {
 
 		<div id="homePage">
 		    <div>
-        <%
-            String message = (String) request.getAttribute("message");
-            if (message != null) {
-        %>
-            <div class="success-message">
-                <%= message %>
-            </div>
-        <%
-            }
-        %>
+        
     </div>
 
 		
